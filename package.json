@@ -1,0 +1,13 @@
+{
+  "id": "Xing Portal",
+  "name": "Xing Portal",
+  "version": "1.0.1",
+  "description": "Xing Portal",
+  "main": "index.js",
+  "author": "Patrick Thoelken <patrick.thoelken@outlook.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.xing.com",
+    "hasNotificationSound": true
+  }
+}
